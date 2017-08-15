@@ -1,5 +1,5 @@
 {
-    "name": "jublonet/codebird-php",
+    "name": "phamthanhthuong/test",
     "description" : "Easy access to the Twitter REST API, Collections API, Streaming API, TON (Object Nest) API and Twitter Ads API — all from one PHP library.",
     "keywords": [
         "Twitter",
@@ -26,13 +26,5 @@
         "email": "support@jublo.net",
         "issues": "https://github.com/jublonet/codebird-php/issues",
         "source": "https://github.com/jublonet/codebird-php/releases"
-    },
-    "autoload": {
-        "classmap": ["src/"]
-    },
-    "require-dev": {
-        "satooshi/php-coveralls": ">=0.6",
-        "phpunit/phpunit": ">=3.7",
-        "squizlabs/php_codesniffer": "2.*"
     }
 }
